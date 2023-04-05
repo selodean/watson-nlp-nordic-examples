@@ -1,4 +1,8 @@
-# Watson NLP example notebooks to run in Watson Studio
+# How to get get access to Watson Studio in IBM Cloud Pak for Data to try out Watson NLP
+
+Follow steps in **Instructions for getting started with Watson NLP in IBM Cloud.pdf**
+
+# Watson NLP example notebooks
 
 ## 1. Language: Multi-lingual
 
@@ -6,18 +10,11 @@
 
 ## 2. Language: Finnish (FI)
 
-2 Python notebooks and 2 datasets to run Watson NLP library models on Finnish text in Watson Studio. They can be easily adapted to another language by changing a) the data set b) the language code in the names of the loaded libraries.
+A Jupyter notebook and a dataset to run Watson NLP library models on Finnish text. You can easily adapt it to another language by changing a) the data set b) the language code in the names of the libraries.
 
-'**Citizen-Feedback-Analysis-FI.ipynb**' analyses and visualizes Sentiment and Entities using as data source '**helsinki-feedback-data.csv**', trains a Dictionary based extractor. 
+'**Citizen-Feedback-Analysis-FI.ipynb**' analyses and visualizes Sentiment and Entities using as data source '**helsinki-feedback-data.csv**', and trains a Dictionary based extractor. 
 
-(This notebook is a Finnish adaptation of the English language 'Financial Complaint Analysis' notebook available in the 'Using Watson NLP in Watson Studio' Sample Project in Watson Studio authored by Simone Zerfass and Alexander Lang at IBM Germany)
-
-'**Classifier-training-BERT-SVM-FI.ipynb**' executes SVM and BERT classifier training using as data source '**helsinki-raw-data_with_3classes_small.csv**'
-You will likely need an environment with more than 4 vCPUs and 16 GB RAM, or GPU due to BERT model training requirements. I ran this with 16 vCPUs and 64 GB RAM.
-
-(This notebook is a Finnish adaptation of the English language 'Complaint Classification' notebook available 'Using Watson NLP in Watson Studio' Sample Project in Watson Studio authored by Simone Zerfass and Alexander Lang at IBM Germany)
-
-The datasets consist of open data of Helsinki City feedback data downloaded from http://dev.hel.fi/apis/open311
+The dataset consists of open data of Helsinki City feedback data downloaded from http://dev.hel.fi/apis/open311
 
 -----------------------------------------------------
 
