@@ -1,4 +1,4 @@
-# How to get get access to Watson Studio in IBM Cloud Pak for Data to try out Watson NLP
+# How to get get access to IBM Cloud Pak
 
 Follow steps in **Instructions for getting started with Watson NLP in IBM Cloud.pdf**
 
