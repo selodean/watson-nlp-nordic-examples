@@ -2,6 +2,8 @@
 
 Follow the steps in <a href="https://github.com/selodean/watson-nlp-nordic-examples/blob/main/Instructions%20for%20getting%20started%20with%20Watson%20NLP%20on%20IBM%20Cloud.pdf">Instructions for getting started with Watson NLP in IBM Cloud.pdf<a>.
 
+ -----------------------------------------------------
+  
 # Watson NLP example notebooks
 
 ## 1. Language: Multi-lingual
