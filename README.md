@@ -8,7 +8,7 @@ Follow the steps in <a href="https://github.com/selodean/watson-nlp-nordic-examp
 
 ## 1. Language: Multi-lingual
 
-'**Syntax-Entities-Keywords-Sentiment-Multilingual.ipynb**' is a very simple starter notebook that loads and runs pre-trained models included in Watson NLP: Syntax, machine-learned and rule-based Entities, Sentiment and Keywords. Simply change text_input and language code to your favorite language.
+'**Syntax-Entities-Keywords-Sentiment-Multilingual.ipynb**' is a very simple starter notebook that loads and runs pre-trained models included in Watson NLP: Syntax, machine-learned (BERT) and rule-based Named Entities, Sentiment and Keywords. Simply change text_input and language code to your favorite language.
 
 ## 2. Language: Finnish (FI)
 
